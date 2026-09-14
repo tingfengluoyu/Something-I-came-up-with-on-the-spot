@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+    "addonSteamAppID" "550"
+    "addontitle" "L4D2 Friendly-Fire Stats"
+    "addonauthor" "Codex"
+    "addonversion" "1.0.0"
+    "addontag" "Script"
+    "addontag" "Gameplay"
+    "addondescription" "统计本地图内幸存者对队友造成的伤害总值和次数，每分钟在聊天栏汇报；换地图时清空。"
+}
